@@ -7,7 +7,7 @@
 Summary:	Apache Basic Authentication Module written in c for Crowd
 Name:		apache-%{mod_name}
 Version:	1.0
-Release:	%mkrel 2
+Release:	%mkrel 3
 Group:		System/Servers
 License:	Public Domain
 URL:		http://confluence.atlassian.com/display/CROWDEXT/Apache+Basic+Authentication+Module+written+in+c
