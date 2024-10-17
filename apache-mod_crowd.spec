@@ -10,7 +10,7 @@ Version:	1.0
 Release:	%mkrel 9
 Group:		System/Servers
 License:	Public Domain
-URL:		http://confluence.atlassian.com/display/CROWDEXT/Apache+Basic+Authentication+Module+written+in+c
+URL:		https://confluence.atlassian.com/display/CROWDEXT/Apache+Basic+Authentication+Module+written+in+c
 Source0:	crowd_apache_module.zip
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
